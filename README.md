@@ -113,7 +113,7 @@ Web_Final_Project/
 ```
 cd backend
 npm install
-node server.js
+node seed.js
 ```
 Create .env file in backend folder:
 ```
