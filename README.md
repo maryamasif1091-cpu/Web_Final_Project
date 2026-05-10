@@ -62,7 +62,7 @@ Web_Final_Project/
 │   ├── config/
 │   │   ├── cloudinary.js
 │   │   ├── email.js
-│   │   └── Notification.js
+│   │  
 │   ├── middleware/
 │   │   └── authMiddleware.js
 │   ├── models/
